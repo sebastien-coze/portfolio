@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Mon Portfolio</title>
+    <title>Blogs on Sebastien COZE</title>
     <link>https://sebastien-coze.github.io/portfolio/blog/</link>
-    <description>Recent content in Blogs on Mon Portfolio</description>
+    <description>Recent content in Blogs on Sebastien COZE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Mon, 25 Apr 2022 09:55:19 +0200</lastBuildDate><atom:link href="https://sebastien-coze.github.io/portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
